@@ -16,12 +16,3 @@
         alt="NotSayko's GitHub Stats"
     />
 </div>
-
----
-
-<div align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSayko&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"
-        alt="Top Languages"
-    />
-</div>
